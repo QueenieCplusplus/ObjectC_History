@@ -1,4 +1,4 @@
-# ObjectC_History
+# ObjectC_main
 
 Object C 是 Mac OS 的一種開發語言，簡稱為 object 或是 Obj-C。誕生於 1980 年代，但到 1996 年方才成為蘋果的程式語言。
 
