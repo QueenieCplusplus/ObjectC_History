@@ -12,3 +12,4 @@ Object C 是 Mac OS 的一種開發語言，簡稱為 object 或是 Obj-C。誕�
             C   +  method   =   Object-C
                    property
                    protocol
+                   group(inheritance)
