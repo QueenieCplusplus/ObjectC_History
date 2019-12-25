@@ -38,5 +38,5 @@ main 方法
              int main(int argc, const char * argv[])
              {
                 NSLog(); -------> 執行區塊
-                treturn 0;
+                return 0;
              }
