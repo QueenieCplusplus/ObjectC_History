@@ -29,4 +29,14 @@ Object C 是 Mac OS 的一種開發語言，簡稱為 object 或是 Obj-C。誕�
           obj-c-Prefix.pch  main.m
                         |
                       obj-c.l
-           
+ 
+main 方法
+
+             #import <Foundation/Foundation.h>    -----> 標頭檔案
+             
+             
+             int main(int argc, const char * argv[])
+             {
+                NSLog(); -------> 執行區塊
+                treturn 0;
+             }
